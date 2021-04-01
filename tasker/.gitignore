@@ -1,0 +1,6 @@
+combined.log
+error.log
+test.js
+.vscode
+node_modules
+package-lock

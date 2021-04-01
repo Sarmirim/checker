@@ -1,0 +1,22 @@
+{
+  "name": "tasker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "googleapis": "^39.2.0",
+    "needle": "^2.5.2",
+    "nodemon": "^2.0.6",
+    "readline": "^1.3.0",
+    "winston": "^3.3.3"
+  }
+}
